@@ -7,9 +7,9 @@ This is not meant to be too heavyweight library with a billion switches and knob
 Current implementation follows a few key papers:
 
 Bigram (one character predicts the next one with a lookup table of counts)
-MLP, following Bengio et al. 2003
-CNN, following DeepMind WaveNet 2016 (in progress...)
-RNN, following Mikolov et al. 2010
-LSTM, following Graves et al. 2014
-GRU, following Kyunghyun Cho et al. 2014
-Transformer, following Vaswani et al. 2017
+* MLP, following Bengio et al. 2003
+* CNN, following DeepMind WaveNet 2016 (in progress...)
+* RNN, following Mikolov et al. 2010
+* LSTM, following Graves et al. 2014
+* GRU, following Kyunghyun Cho et al. 2014
+* Transformer, following Vaswani et al. 2017
